@@ -1,5 +1,4 @@
 <hr><p><h1>DeepMice Wordpress theme</h1></p>
-<title>wtf</title>
 Creator: Adryan<br>
 Server: <a href="http://deepmice.top/">http://deepmice.top/</a>
 <hr>
